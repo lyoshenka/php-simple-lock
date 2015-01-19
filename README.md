@@ -4,7 +4,7 @@
 
 ```JSON
 "require": {
-  "lyoshenka/php-simple-lock": "1.0"
+  "lyoshenka/php-simple-lock": "~1.0"
 }
 ```
 
